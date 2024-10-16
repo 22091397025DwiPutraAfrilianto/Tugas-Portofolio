@@ -1,0 +1,36 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  section {
+    padding-top: 80px;
+  }
+  
+  #home {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .card {
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+    margin-top: 20px;
+  }
+  
+  .btn-info {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+  }
+  
